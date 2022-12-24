@@ -1,3 +1,6 @@
+# コードはこの記事のものであり、私が書いたものではないです。
+# https://qiita.com/Gotoubun_taiwan/items/777f537c315cd9e59757
+
 #package のインストール
 library(RMeCab)
 library(tidyverse)
